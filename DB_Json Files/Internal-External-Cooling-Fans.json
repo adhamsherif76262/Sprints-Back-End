@@ -1,0 +1,110 @@
+[
+  {
+    "_id": {
+      "$oid": "634d1aa0d9c008dc4140ebf5"
+    },
+    "Category": "Internal-External-Cooling-Fans",
+    "Descrption": "Cooler Master SickleFlow 120 V2 RGB Square Frame Fan, RGB 4-Pin Customizable LEDs, Air Balance Curve Blade, Sealed Bearing, 120mm PWM Control for Computer Case & Liquid Radiator",
+    "URL": "Images/Cooling Fans/Internal/1.jpg",
+    "Price": "14$"
+  },
+  {
+    "_id": {
+      "$oid": "634d1c04d9c008dc4140ebf6"
+    },
+    "Category": "Internal-External-Cooling-Fans",
+    "Descrption": "ARESGAME CPU Air Cooler for Intel/AMD with 5 Direct Contact Heatpipes and 120mm PWM Fan - Black",
+    "URL": "Images/Cooling Fans/Internal/2.jpg",
+    "Price": "30$"
+  },
+  {
+    "_id": {
+      "$oid": "634d1c60d9c008dc4140ebf7"
+    },
+    "Category": "Internal-External-Cooling-Fans",
+    "Descrption": "Cooler Master MasterFan MF120 Halo 3in1 Duo-Ring ARGB 3-Pin Fan, 24 Independently LEDS, 120mm PWM Static Pressure Fan, Absorbing Pads for Computer Case & Liquid Radiator",
+    "URL": "Images/Cooling Fans/Internal/3.jpg",
+    "Price": "68$"
+  },
+  {
+    "_id": {
+      "$oid": "634d1cc4d9c008dc4140ebf8"
+    },
+    "Category": "Internal-External-Cooling-Fans",
+    "Descrption": "Hk-Part CPU Cooling Fan for HP Pavilion 767776-001 767706-001 773447-001 767712-001 773384-001 Notebook PC",
+    "URL": "Images/Cooling Fans/Internal/4.jpg",
+    "Price": "10$"
+  },
+  {
+    "_id": {
+      "$oid": "634d1d19d9c008dc4140ebf9"
+    },
+    "Category": "Internal-External-Cooling-Fans",
+    "Descrption": "Bewinner Cooling Fan for Cooling Video Cards Mini System PCI Slot Blower CPU Case DC Cooling Fan New Cooling Fans PCI for Computer",
+    "URL": "Images/Cooling Fans/Internal/5.jpg",
+    "Price": "14$"
+  },
+  {
+    "_id": {
+      "$oid": "634d1d99d9c008dc4140ebfb"
+    },
+    "Category": "Internal-External-Cooling-Fans",
+    "Descrption": "CPU Cooler with Aluminum Heatsink & Copper Core Base & 4-Pin PWM 3.5-Inch Fan with Pre-Applied TRONSTORE Thermal Paste for Intel Core i3 i5 i7 i9 Socket 1200 1151 1150 1155 1156 Desktop PC - 10th Gen",
+    "URL": "Images/Cooling Fans/Internal/6.jpg",
+    "Price": "17$"
+  },
+  {
+    "_id": {
+      "$oid": "634d1e11d9c008dc4140ebfc"
+    },
+    "Category": "Internal-External-Cooling-Fans",
+    "Descrption": "CORSAIR iCUE H170i ELITE LCD Display Liquid CPU Cooler-Custom IPS LCD Screen-48 Dynamic RGB LEDs-140mm Fans -420mm Radiator-COMMANDER CORE Smart Lighting Controller",
+    "URL": "Images/Cooling Fans/Internal/7.jpg",
+    "Price": "280$"
+  },
+  {
+    "_id": {
+      "$oid": "634d1e82d9c008dc4140ebfd"
+    },
+    "Category": "Internal-External-Cooling-Fans",
+    "Descrption": "Wathai 4 x 120mm Mining Rig Server Rack Fan with 100V - 240V AC Power Variable Speed Control, Big Airflow for DIY Cooling CPU GPU,AV Cabinets ，TVs Routers ，Audio Amplifier, Refrigerator, Home Heater",
+    "URL": "Images/Cooling Fans/Internal/8.jpg",
+    "Price": "221$"
+  },
+  {
+    "_id": {
+      "$oid": "634d1ec6d9c008dc4140ebfe"
+    },
+    "Category": "Internal-External-Cooling-Fans",
+    "Descrption": "CP3 120mm Silent Intelligent Control RGB Case Fan Adjustable Colorful High Performance Fans with Controller, 3-Pack",
+    "URL": "Images/Cooling Fans/Internal/9.jpg",
+    "Price": "18$"
+  },
+  {
+    "_id": {
+      "$oid": "634d1f16d9c008dc4140ebff"
+    },
+    "Category": "Internal-External-Cooling-Fans",
+    "Descrption": "TopMate C11 Laptop Cooling Pad RGB Gaming Notebook Cooler, Laptop Fan Stand Adjustable Height with 6 Quiet Fans and Phone Holder, Computer Chill Mat, for 15.6-17.3 Inch Laptops - Ice Blue LED Light",
+    "URL": "Images/Cooling Fans/External/1.jpg",
+    "Price": "36$"
+  },
+  {
+    "_id": {
+      "$oid": "634d1fc0d9c008dc4140ec00"
+    },
+    "Category": "Internal-External-Cooling-Fans",
+    "Descrption": "Thermaltake Massive 14 Steel Mesh Panel Dual 140mm Blue LED Fan Adjustable Speed Control 10-17 Laptop Notebook Cooling Pad CL-N001-PL14BU-At",
+    "URL": "Images/Cooling Fans/External/2.jpg",
+    "Price": "42$"
+  },
+  {
+    "_id": {
+      "$oid": "634d2009d9c008dc4140ec01"
+    },
+    "Category": "Internal-External-Cooling-Fans",
+    "Descrption": "TECKNET Laptop Cooling Pad Portable Slim Quiet USB Powered Laptop Notebook Cooler Cooling Pad Stand Chill Mat with 3 Blue LED Fans, Fits 12-17 Inches",
+    "URL": "Images/Cooling Fans/External/3.jpg",
+    "Price": "25$"
+  }
+]
